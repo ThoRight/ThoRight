@@ -63,9 +63,9 @@ A computer Engineering student from Gebze Technical University</div>
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThoRight&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ThoRight&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ThoRight&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThoRight&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" /></div>  
 
 <br/>  
 
